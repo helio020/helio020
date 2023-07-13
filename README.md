@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, eu sou o Hélio! 👋
 
-<!--
-**helio020/helio020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack, amo o mundo da tecnologia e estou sempre procurando aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://helio020.github.io/Portfolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hélio-ribeiro-04b44b15b)
+
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS.
+
+
+## 🧠 Estou aprendendo
+TypeScript, React.Js e Node.Js.
+## 📫 Como entrar em contato comigo
+Mande um email para esse contato : heliorpjunior116@gmail.com
