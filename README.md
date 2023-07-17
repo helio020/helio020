@@ -6,8 +6,8 @@ Eu sou uma pessoa desenvolvedora full-stack, amo o mundo da tecnologia e estou s
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://helio020.github.io/Portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hélio-ribeiro-04b44b15b)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://helio020.github.io/Portfolio/)(target:_blank)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9lio-ribeiro-04b44b15b/)(target:_blank)
 
 
 
