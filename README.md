@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora full-stack, amo o mundo da tecnologia e estou sempre procurando aprimorar minhas habilidades.
+Sou desenvolvedor de software full-stack, amo o mundo da tecnologia e estou sempre procurando aprimorar minhas habilidades.
 
 
 ## 🔗 Links
