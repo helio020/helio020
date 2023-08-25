@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedor de software full-stack, amo o mundo da tecnologia e estou sempre procurando aprimorar minhas habilidades.
+Sou Desenvolvedor de Software Full-Stack desde 2023, amo o mundo da tecnologia, estou sempre procurando aprimorar minhas habilidades, fazendo transição de carreira pois sou formado em Bacharelado em Odontologia e atualmente estou estudando na Cubos Academy e DIO.
 
 
 ## 🔗 Links
@@ -17,5 +17,7 @@ HTML, CSS, JavaScript, TypeScript, React.Js, Node.Js, SQL, PostgreSQL e Git .
 
 ## 🧠 Estou aprendendo
 Desenvolvimento de Software FullStack.
+
+
 ## 📫 Como entrar em contato comigo
 Mande um email para esse contato : heliorpjunior116@gmail.com
