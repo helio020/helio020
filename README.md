@@ -20,4 +20,4 @@ Desenvolvimento de Software FullStack.
 
 
 ## 📫 Como entrar em contato comigo
-Mande um email para esse contato : heliorpjunior116@gmail.com
+<a href=heliorpjunior116@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
