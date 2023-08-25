@@ -12,10 +12,10 @@ Sou desenvolvedor de software full-stack, amo o mundo da tecnologia e estou semp
 
 
 ## 🛠 Habilidades
-Javascript, HTML, CSS.
+HTML, CSS, JavaScript, TypeScript, React.Js, Node.Js, SQL, PostgreSQL e Git .
 
 
 ## 🧠 Estou aprendendo
-TypeScript, React.Js e Node.Js.
+Desenvolvimento de Software FullStack.
 ## 📫 Como entrar em contato comigo
 Mande um email para esse contato : heliorpjunior116@gmail.com
