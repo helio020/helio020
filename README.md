@@ -2,7 +2,7 @@
 
 
 ## 🚀 Sobre mim
-Sou Desenvolvedor de Software Full-Stack desde 2023, amo o mundo da tecnologia, estou sempre procurando aprimorar minhas habilidades, fazendo transição de carreira pois sou formado em Bacharelado em Odontologia e atualmente estou estudando na Cubos Academy e DIO.
+Sou Desenvolvedor de Software Full-Stack desde 2023, amo o mundo da tecnologia, estou sempre procurando aprimorar minhas habilidades, fazendo transição de carreira pois sou formado em Bacharelado em Odontologia e atualmente estou estudando na [Cubos Academy](https://cubos.academy/) e [DIO](https://www.dio.me/).
 
 
 ## 🔗 Links
