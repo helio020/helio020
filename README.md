@@ -31,3 +31,8 @@ Sou Desenvolvedor de Software Full-Stack desde 2023, amo o mundo da tecnologia, 
 
 ## 📫 Como entrar em contato comigo
 <a href=heliorpjunior116@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={helio020}&theme={dracula}"/>
+</div>
