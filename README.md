@@ -3,7 +3,7 @@
 
 ## 🚀 Sobre mim
 
-Sou Desenvolvedor de Software desde 2023, amo o mundo da tecnologia, estou sempre procurando aprimorar minhas habilidades, disposto a aprender novas linguagens de programação, fazendo transição de carreira, pois sou formado em Bacharelado de Odontologia e sou formado na [Cubos Academy](https://cubos.academy/) e [DIO](https://www.dio.me/).
+Sou Desenvolvedor de Software desde 2023, amo o mundo da tecnologia, estou sempre procurando aprimorar minhas habilidades e disposto a aprender novas linguagens de programação.
 
 
 ## 🔗 Links
